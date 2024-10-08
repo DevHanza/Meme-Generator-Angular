@@ -1,6 +1,6 @@
 # Meme Generator
 
-Simple Meme Generator with Angular v18 🧮
+Simple Meme Generator with Angular v18
 
 ## Feel free to introduce your bugs at [Issues](https://github.com/DevHanza/Angular-Calculator/issues).🐛
 
